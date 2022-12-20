@@ -1,0 +1,3 @@
+// Command to setup your .exe file
+
+python setup.py bdist_msi
